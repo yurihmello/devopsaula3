@@ -1,6 +1,6 @@
 # devopsaula3
 
 Mercurial
-GIrhub
+Gitlab
 etc
 etc
